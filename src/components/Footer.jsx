@@ -44,10 +44,10 @@ const Footer = () => {
   const currentYear = new Date().getFullYear();
 
   const socialLinks = {
-    facebook: "https://facebook.com/drivemate",
+    facebook: "https://web.facebook.com/profile.php?id=61573412106812",
     twitter: "https://twitter.com/drivemate",
-    linkedin: "https://linkedin.com/company/drivemate",
-    instagram: "https://instagram.com/drivemate"
+    linkedin: "https://www.linkedin.com/in/drivemate-a5bb05352",
+    instagram: "https://www.instagram.com/dbforg12"
   };
 
   return (
