@@ -445,7 +445,7 @@ const Home = () => {
                           color: 'var(--text-light)',
                           fontSize: '1.1rem'
                         }}>
-                          +94 71 123 4567
+                          +94 76 627 3245
                         </Typography>
                       </Box>
                     </Stack>
