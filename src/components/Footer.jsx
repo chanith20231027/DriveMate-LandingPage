@@ -46,8 +46,8 @@ const Footer = () => {
   const socialLinks = {
     facebook: "https://web.facebook.com/profile.php?id=61573412106812",
     twitter: "https://twitter.com/drivemate",
-    linkedin: "https://www.linkedin.com/in/drivemate-a5bb05352",
-    instagram: "https://www.instagram.com/dbforg12"
+    linkedin: "https://www.linkedin.com/in/drivemate-sl-561680303",
+    instagram: "https://www.instagram.com/drivemate_sl/?hl=en"
   };
 
   return (
